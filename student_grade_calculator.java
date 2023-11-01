@@ -1,5 +1,5 @@
 // Task 2 
-package Internship_CodeSoft;
+//package Internship_CodeSoft;
 
 import java.util.Scanner;
 
